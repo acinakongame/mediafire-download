@@ -57,7 +57,7 @@ This is Anime Tracker Program To Download Mediafire With Terminal
   ```
 
 - ```bash
-  $ git clone https://github.com/AsukaDev-Official/mediafire-download
+  $ git clone https://github.com/acinakongame/mediafire-download
   ```
 
 - ```bash
