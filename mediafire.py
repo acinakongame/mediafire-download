@@ -22,7 +22,7 @@ logo = """
 {:>6}┃┃┃┃┃━┫╰╯┃┃╭╮┃┃┃┃┃┃┃┃━┫
 {:>6}╰┻┻┻━━┻━━┻┻╯╰╯╰╯╰┻╯╰━━╯
 {:>6}
-{:>6}  :: Coded Tegar Dev
+{:>6}  :: Coded Acinakongame
 {:>6}
 """.format(kosong, kosong, kosong, kosong, kosong, kosong, kosong, kosong, kosong)
 
